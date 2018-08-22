@@ -1,0 +1,23 @@
+body{
+  font-family: 'Ubuntu', Courier, monospace;
+  background: #5fd385;
+  color: #ffffff;
+  /* margin-top: 20%; */
+  text-align: center;
+  transition: ease-in 1s; 
+}
+
+
+.splash{
+  background-image: url(get-to-work.gif);
+  height: 400px;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+
+footer{
+position: absolute;
+bottom: 10px;
+text-align: center;
+}
